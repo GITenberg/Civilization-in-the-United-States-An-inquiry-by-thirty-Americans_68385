@@ -1,0 +1,51 @@
+_repo: Civilization-in-the-United-States-An-inquiry-by-thirty-Americans_68385
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Stearns, Harold
+    aliases:
+    - Stearns, Harold Edmund
+    - Stearns, Harold E.
+    birthdate: 1891
+    deathdate: 1943
+    gutenberg_agent_id: '54748'
+    url: http://www.gutenberg.org/2009/agents/54748
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68385'
+  lccn: '22002320'
+language: en
+pgterms:marc904: https://archive.org/details/abk5803.0001.001.umich.edu
+pgterms:marc905: 20210423120925stearns
+pgterms:marc906: '1922'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Harcourt, Brace and Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Civilization'
+- !lcc 'E151'
+- GITenberg
+tableOfContents: 'Preface, by the editor -- The city, by Lewis Mumford -- Politics,
+  by H. L. Mencken -- Journalism, by John Macy -- The law, by Zechariah Chafee, Jr.
+  -- Education, by Robert Morss Lovett -- Scholarship and criticism, by J. E. Spingarn
+  -- School and college life, by Clarence Britten -- The intellectual life, by Harold
+  E. Stearns -- Science, by Robert H. Lowie -- Philosophy, by Harold Chapman Brown
+  -- The literary life, by Van Wyck Brooks -- Music, by Deems Taylor -- Poetry, by
+  Conrad Aiken -- Art, by Walter Pach -- The theatre, by George Jean Nathan -- Economic
+  opinion, by Walter H. Hamilton -- Radicalism, by George Soule -- The small town,
+  by Louis Raymond Reid -- History, by H. W. Van Loon -- Sex, by Elsie Clews Parsons
+  -- The family, by Katharine Anthony -- The alien, by Frederic C. Howe -- Racial
+  minorities, by Geroid Tanquary Robinson -- Advertising, by J. Thorne Smith -- Business,
+  by Garet Garrett -- Engineering, by O. S. Beyer, Jr. -- Nerves, by Alfred B. Kuttner
+  -- Medicine, by Anonymous -- Sport and play, by Ring W. Lardner -- Humour, by Frank
+  M. Colby -- American civilization from the foreign point of view: As an Englishman
+  sees it, by Henry L. Stuart. As an Irishman sees it, by Ernest Boyd. As an Italian
+  sees it, by Raffaello Piccoli -- Bibliographical Notes -- Who''s who of the contributors.'
+title: 'Civilization in the United States: An inquiry by thirty Americans'
+url: http://www.gutenberg.org/ebooks/68385
