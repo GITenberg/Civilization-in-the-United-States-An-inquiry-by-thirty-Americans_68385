@@ -1,5 +1,8 @@
 _repo: Civilization-in-the-United-States-An-inquiry-by-thirty-Americans_68385
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68385-h/images/cover.jpg
 creator:
   editor:
     agent_name: Stearns, Harold
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '54748'
     url: http://www.gutenberg.org/2009/agents/54748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68385#Civilization-in-the-United-States-An-inquiry-by-thirty-Americans
 gutenberg_issued: '2022-06-23'
 identifiers:
   gutenberg: '68385'
